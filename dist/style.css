@@ -1,0 +1,43 @@
+
+#nav{
+    position: absolute;
+    height: 45px;
+    width:100vw;
+    top:0;
+    left:0;
+    background-color: grey;
+
+}
+
+#socials{
+    position: absolute;
+    top:15px;
+    left: 1vw;
+
+}
+
+table{
+    position: absolute ;
+    border: 1px solid black;
+    width:80vw;
+    margin:auto;
+    top: 20vh; left: 0; bottom: 0; right: 0;
+}
+
+ td
+{
+  margin:auto;
+  padding-right: 1vw;
+  word-wrap: wrap break-word;
+  max-width: 20vw;
+  text-align: center;
+  
+}
+body{
+  display: flex;
+  flex-grow: 1;
+  align-items:center;
+  justify-content: center;
+}
+
+
